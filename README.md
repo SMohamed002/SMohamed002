@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Saeed
 - 👀 I'm a data scientist and machine learning engineer, passionate about solving complex problems using data-driven approaches.
-- 🌱 I’m currently learning Deep Learning,NLP,Computer Vision
-- 💞️ I have experience working with various machine learning algorithms such as linear regression, decision trees, and neural networks,
--  I'm always eager to learn new things and stay up-to-date with the latest developments in the field of data science and machine learning
+- 🌱 I’m currently learning Deep Learning, NLP, and Computer Vision.
+- 💞️ I have experience working with various machine learning algorithms such as linear regression, decision trees, and neural networks.
+-  I'm always eager to learn new things and stay up-to-date with the latest developments in the field of data science and machine learning.
 
 
 <!---
